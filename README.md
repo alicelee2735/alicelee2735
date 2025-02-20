@@ -1,4 +1,4 @@
-# Hi, I'm Alice! 👋
+Hi, I'm Alice! 👋
 
 🌱 **Current Focus**  
 - Preparing for USACO
