@@ -6,7 +6,8 @@ Hi, I'm Alice! 👋
 - Building open-source tools for education  
 
 🚀 **Recent Projects**  
-- [USACO Problem Solutions](https://github.com/alicelee2735/usaco-solutions)  
+- [USACO Problem Solutions](https://github.com/alicelee2735/usaco-solutions)
+- [Dev Community Blogs](https://dev.to/alicelee2735)
 
 📫 **Connect with Me**  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:lichoiyin@gmail.com)
