@@ -6,6 +6,7 @@ Hi, I'm Alice! 👋
 - Building open-source tools for education  
 
 🚀 **Recent Projects**  
+- USACO Feb contest...💻 
 - [USACO Problem Solutions](https://github.com/alicelee2735/usaco-solutions)
 - [Dev Community Blogs](https://dev.to/alicelee2735)
 
