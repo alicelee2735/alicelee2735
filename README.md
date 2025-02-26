@@ -1,4 +1,5 @@
-Hi, I'm Alice! 👋
+Hi, I'm Alice! 👋 I am a high school student passionate about competitive programming, AI, and contributing to open-source projects ☆
+I build small projects sometimes
 
 🌱 **Current Focus**  
 - Preparing for USACO
@@ -8,6 +9,7 @@ Hi, I'm Alice! 👋
 
 🚀 **Recent Projects**  
 - [HTML Animation](https://github.com/alicelee2735/Cosmic-Bouncer)
+- [CPP Study Notes](https://github.com/alicelee2735/Algorithm-Vault)
 - [USACO Problem Solutions](https://github.com/alicelee2735/usaco-solutions)
 - [Dev Community Blogs](https://dev.to/alicelee2735)
 
