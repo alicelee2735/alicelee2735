@@ -1,7 +1,8 @@
 # *Hi, I'm Alice! 👋*
+
+---
 I am a high school student passionate about competitive programming, AI, and contributing to open-source projects \
 ☆ I build small projects sometimes
----
 
 ### 🛠️ **Tech Toolbox**
 [![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
