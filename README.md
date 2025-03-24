@@ -1,9 +1,6 @@
 # *Hi, I'm Alice! 👋*
 I am a high school student passionate about competitive programming, AI, and contributing to open-source projects \
 ☆ I build small projects sometimes
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&width=435&lines=while(true)+%7B+code++%7C%7C++chill+%7D)](https://git.io/typing-svg)
-
 ---
 
 ### 🛠️ **Tech Toolbox**
@@ -27,7 +24,6 @@ I am a high school student passionate about competitive programming, AI, and con
 
 ---
 ### 🚀 **Recent Projects**  
-- [HTML Animation](https://github.com/alicelee2735/Cosmic-Bouncer)
 - [CPP Study Notes](https://github.com/alicelee2735/Algorithm-Vault)
 - [USACO Problem Solutions](https://github.com/alicelee2735/usaco-solutions)
 - [Dev Community Blogs](https://dev.to/alicelee2735)
