@@ -12,15 +12,9 @@ I am a high school student passionate about competitive programming, AI, and con
 [![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![macOS](https://img.shields.io/badge/-macOS-000000?style=flat&logo=apple&logoColor=white)](https://developer.apple.com/macos/)
 
-### **Languages I Speak**:  
-
-🇺🇸 English | 🇨🇳 Chinese | 🇰🇷 Korean
-
 ---
 
 ### 🌱 **Current Focus**  
-- **Grinding** USACO prob
-- **Building** open-source tools for education
 - [**CPI**](https://github.com/cpinitiative) Curriculum Dev
 
 ---
@@ -29,13 +23,6 @@ I am a high school student passionate about competitive programming, AI, and con
 - [USACO Problem Solutions](https://github.com/alicelee2735/usaco-solutions)
 - [Dev Community Blogs](https://dev.to/alicelee2735)
 
----
-
-### 📊 **GitHub Stats**
-
-[![Alice's GitHub stats](https://github-readme-stats.vercel.app/api?username=alicelee2735&show_icons=true&theme=codeSTACKr&count_private=true&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
-### 📊 **My Top Languages**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alicelee2735&layout=compact&theme=github_dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
