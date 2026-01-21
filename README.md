@@ -19,9 +19,8 @@ I am a high school student passionate about competitive programming, AI, and con
 
 ---
 ### 🚀 **Recent Projects**  
-- [CPP Study Notes](https://github.com/alicelee2735/Algorithm-Vault)
 - [USACO Problem Solutions](https://github.com/alicelee2735/usaco-solutions)
-- [Dev Community Blogs](https://dev.to/alicelee2735)
+- [CSES Solutions](https://github.com/alicelee2735/cses-solutions)
 
 
 ---
